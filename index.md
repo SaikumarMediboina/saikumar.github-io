@@ -64,3 +64,19 @@ Results-driven Software Engineer with **2.5+ years of experience** designing sca
 
 * **Competitive Examination Excellence:** Secured a **98.0 percentile in GATE 2021** (CS/IT) and a **top 2% statewide rank in EAMCET 2016**, earning a full four-year merit tuition scholarship.
 * **Vice President of India Scholarship:** Awarded Scholarship for outstanding academic excellence (2019).
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+      // Find the specific auto-generated link in the sidebar
+      var profileLink = document.querySelector("header p.view a");
+      if (profileLink) {
+          // Change the URL to your LeetCode
+          profileLink.href = "https://leetcode.com/u/msaikumar6789/";
+          // Change the display text
+          profileLink.textContent = "View My LeetCode Profile";
+          // Optional: Make it open in a new tab
+          profileLink.target = "_blank"; 
+      }
+  });
+</script>
