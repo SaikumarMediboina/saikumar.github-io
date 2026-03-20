@@ -2,7 +2,8 @@
 **Backend Software Engineer | Java | Spring Boot | Oracle**
 
 📍 Rajahmundry, Andhra Pradesh, India  
-✉️ [msaikumar6789@gmail.com](mailto:msaikumar6789@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/saikumar-mediboina-1b8258136/) 
+✉️ [msaikumar6789@gmail.com](mailto:msaikumar6789@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/saikumar-mediboina-1b8258136/)
+
 ---
 
 ## 🚀 Objective
@@ -63,7 +64,6 @@ Results-driven Software Engineer with **2.5+ years of experience** designing sca
 
 * **Competitive Examination Excellence:** Secured a **98.0 percentile in GATE 2021** (CS/IT) and a **top 2% statewide rank in EAMCET 2016**, earning a full four-year merit tuition scholarship.
 * **Vice President of India Scholarship:** Awarded Scholarship for outstanding academic excellence (2019).
-
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
